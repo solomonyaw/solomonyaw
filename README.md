@@ -17,6 +17,7 @@
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
+- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf
 
 - ⚡ Fun fact **I'm jovial**
 
