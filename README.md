@@ -21,7 +21,7 @@
 
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project which involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
-  Click here to read my full project documentation =><a href="assets/finalyearproject.pdf"></a> Download my resume <a href="assets/CV.pdf">here</a></p>
+  Click here to read my full project documentation => <a href="assets/finalyearproject.pdf"> Final Year Project </a> </p>
 
 - ⚡ Fun fact **I'm jovial**
 
