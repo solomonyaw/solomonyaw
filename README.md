@@ -17,14 +17,15 @@
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
-- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf
+- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
 
+<h3 align="left">Final Year Undergraduate Project</h3>
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
   Click here to read my full project documentation => <a href="http://solomonadeklo.me/assets/finalyearproject.pdf"> Final Year Project </a><br>
 
 As at August 2017, SNNIT’s pension scheme had a registered membership of about 1,3007,882. That means out of a total population of 30 million Ghanaians,  only 4.36% of the population are enrolled into the government’s social security scheme.
- Since 80% of  the  working population are informal workers, it implies that the chunk of the working population are not targeted  and  enrolled into social protections policies instituted by the government of Ghana. Therefore there is the need
+ Since 80% of  the  working population are informal workers, it implies that the chunk of the working population are not targeted  and  enrolled into social protection policies instituted by the government of Ghana. Therefore there is the need
  to develop a social protection management systems to bridge the huge gap in enrollment</p>
 
 
