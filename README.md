@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **MEARN**
 
+- ⚡ Fun fact **I'm jovial**
+
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
 
@@ -30,7 +32,7 @@ As at August 2017, SNNIT’s pension scheme had a registered membership of about
 
 
 
-- ⚡ Fun fact **I'm jovial**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
