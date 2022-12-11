@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonyaw" alt="solomonyaw" /></a> </p>
 
-- 🔭 I’m currently working on **a social protection management system**
+- 🔭 I’m currently working on **a social protection management information system**
 
 - 🌱 I’m currently learning **Javascript and Vue.Js**
 
@@ -19,7 +19,7 @@
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf
 
-<p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project which involved a research work to develop a social protection management information system to register potential members online to make contributions 
+<p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
   Click here to read my full project documentation => <a href="http://solomonadeklo.me/assets/finalyearproject.pdf"> Final Year Project </a> </p>
 
