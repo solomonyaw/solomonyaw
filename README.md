@@ -25,6 +25,10 @@
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
   Click here to read my full project documentation => <a href="http://solomonadeklo.me/assets/finalyearproject.pdf"> Final Year Project </a><br>
+  
+<p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇</p>
+
+ <img src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" />
 
 Biography of my project supervisor 👇https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
 
