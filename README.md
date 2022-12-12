@@ -28,9 +28,9 @@
   
 <p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇</p>
 
-<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a>
+<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="300px" height= "300px" src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a>
 
-Biography of my project supervisor 👇https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
+Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
 
 As at August 2017, SNNIT’s pension scheme had a registered membership of about 1,3007,882. That means out of a total population of 30 million Ghanaians,  only 4.36% of the population are enrolled into the government’s social security scheme.
  Since 80% of  the  working population are informal workers, it implies that the chunk of the working population are not targeted  and  enrolled into social protection policies instituted by the government of Ghana. Therefore there is the need
