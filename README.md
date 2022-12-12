@@ -28,7 +28,7 @@
   
 <p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇</p>
 
- <img src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" />
+<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a>
 
 Biography of my project supervisor 👇https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
 
