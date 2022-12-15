@@ -28,8 +28,6 @@
   
 <p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇👉 https://www.youtube.com/watch?v=wgXSkkYlIoA</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wgXSkkYlIoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="1000px" height= "400px" src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
 
 
