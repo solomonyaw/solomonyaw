@@ -20,6 +20,7 @@
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
+- 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
 <h3 align="left">Final Year Undergraduate Project</h3>
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
