@@ -35,6 +35,10 @@
 
 Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
 
+p>
+    Below is an introductory video prologue that inspires my goal of me reaching the status of a Full Stack Software Engineer . 📷📸🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
+
+  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
