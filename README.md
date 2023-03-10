@@ -29,7 +29,7 @@
   
 <p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇👉 https://www.youtube.com/watch?v=wgXSkkYlIoA</p>
 
-<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="8000px" height= "300px" src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
+<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="800px" height= "300px" src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
 
 
 
@@ -37,7 +37,7 @@ Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/tea
 
 <p>Below is an introductory video prologue that inspires my goal of me reaching the status of a Full Stack Software Engineer . 📷📸🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
 
-  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="8000px" height= "300px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
+  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="800px" height= "300px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
