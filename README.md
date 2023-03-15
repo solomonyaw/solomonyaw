@@ -22,6 +22,13 @@
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
+<h3 align="left">Full Stack Software Engineeering Apprenticeship</h3>
+<img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
+  <p> 
+    Currently I am a Full-Stack Software Engineer Trainee at AmaliTech Ghana Limited.I have been enrolled in a Full-Stack software egineering apprenticeship program at AmaliTech to be sucessfully recruited into AmeliTech Services to work as a professional Full-Stack Engineer.<br>
+    Skills: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
+  </div>
+
 <h3 align="left">Final Year Undergraduate Project</h3>
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
