@@ -22,7 +22,7 @@
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
-<h3 align="left">Full Stack Software Engineering Apprenticeship(Graduate Trainee Programme)</h3>
+<h3 align="left">Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
     Currently I am a Full-Stack Software Engineer Trainee at AmaliTech Ghana Limited. I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmeliTech Services to work as a professional Full-Stack Engineer.<br>
