@@ -23,13 +23,13 @@
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football+And+I+Am+A+Chelsea+Fan;I+Love+Reading+Thought+Provoking+Books;Buckminster+Fuller+Is+My+Role+Model;" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Buckminster+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
      </div> 
 
 <h3 align="left">Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
-    Currently I am a Full-Stack Software Engineer Trainee at AmaliTech Ghana Limited. I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmeliTech Services to work as a professional Full-Stack Engineer.<br>
+    Currently I am a Full-Stack Software Engineer Trainee at <a href="https://amalitech.org/" target="_blank">AmaliTech Ghana Limited.</a> I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into <a href="https://amalitech.com/" target="_blank">AmeliTech Services</a> to work as a professional Full-Stack Engineer.<br>
     <strong>Skills</strong>: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
   </div>
 
