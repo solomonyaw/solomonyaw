@@ -29,7 +29,7 @@
 <h3 align="left">Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
-    Currently I am a Full-Stack Software Engineer Trainee at <a href="https://amalitech.org/" target="_blank">AmaliTech Ghana Limited.</a> I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into <a href="https://amalitech.com/" target="_blank">AmeliTech Services</a> to work as a professional Full-Stack Engineer.<br>
+    Currently I am a Full-Stack Software Engineer Trainee at <a href="https://amalitech.org/" target="_blank">AmaliTech Ghana Limited.</a> I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into <a href="https://amalitech.com/" target="_blank">AmaliTech Services</a> to work as a professional Full-Stack Engineer.<br>
     <strong>Skills</strong>: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
   </div>
 
