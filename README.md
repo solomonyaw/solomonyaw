@@ -4,8 +4,6 @@
 <h3 align="center">A passionate aspiring Full-Stack developer based in Tema/Ghana. I specialize in Web Development, JavaScript and hybrid mobile app development with IONIC. I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 
-🌐 Languages : English, Twi(Native Ghanaian Langusage), Ewe(Native Ghanaian Langusage).
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
 
@@ -24,6 +22,8 @@
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
+
+🌐 Languages : English, Twi(Native Ghanaian Langusage), Ewe(Native Ghanaian Langusage).
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
