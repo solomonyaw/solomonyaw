@@ -4,6 +4,8 @@
 <h3 align="center">A passionate aspiring Full-Stack developer based in Tema/Ghana. I specialize in Web Development, JavaScript and hybrid mobile app development with IONIC. I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 
+🌐 Languages : English, Twi(Native Ghanaian Langusage), Ewe(Native Ghanaian Langusage).
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
 
