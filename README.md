@@ -23,7 +23,7 @@
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
-🌐 Languages : English, Twi(Native Ghanaian Langusage), Ewe(Native Ghanaian Langusage).
+🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
