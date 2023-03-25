@@ -29,14 +29,14 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
      </div> 
 
-<h3 align="left">Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</h3>
+<h3 align="left"><ins>Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
     Currently I am a Full-Stack Software Engineer Trainee at <a href="https://amalitech.org/" target="_blank">AmaliTech Training Academy. </a> I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into <a href="https://amalitech.com/" target="_blank">AmaliTech Services</a> to work as a professional Full-Stack Engineer.<br>
     <strong>Skills</strong>: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
   </div>
 
-<h3 align="left">Final Year Undergraduate Project</h3>
+<h3 align="left"><ins>Final Year Undergraduate Project</ins></h3>
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
   Click here to read my full project documentation => <a href="https://www.researchgate.net/publication/368662756_A_SOCIAL_PROTECTION_MANAGEMENT_INFORMATION_SYSTEM_CASE_STUDY_INTO_SOCIAL_SECURITY_AND_NATIONAL_INSURANCE_TRUST"> Final Year Project </a><br>
