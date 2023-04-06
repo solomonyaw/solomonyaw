@@ -65,6 +65,8 @@ Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/tea
 <a href="https://linkedin.com/in/solomon-yaw-adeklo-108a0075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solomon-yaw-adeklo-108a0075" height="30" width="40" /></a>
 <a href="https://fb.com/solomon.yaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.yaw" height="30" width="40" /></a>
 <a href="https://instagram.com/solomonyaw.ghandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solomonyaw.ghandi" height="30" width="40" /></a>
+ <a href=" https://www.youtube.com/@trinarycompanylimited4572" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/youtube_124015" alt="TrinaryCompanyLimited" height="30" width="40" /></a>
+        
 </p>
 
 <h3 align="left">Languages and Tools I am and will be working with:</h3>
