@@ -29,7 +29,7 @@
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
      </div> 
      
- <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="60%" height="320px" alt="coding"></p>
+ <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="80%" height="320px" alt="coding"></p>
  
 <h3 align="left"><ins>Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
@@ -47,7 +47,7 @@
   
 <p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇👉 https://www.youtube.com/watch?v=wgXSkkYlIoA</p>
 
-<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="70%" height= "350px"  src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
+<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="80%" height= "350px"  src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
 
 
 
@@ -55,7 +55,7 @@ Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/tea
 
 <p>Below is an introductory video prologue that inspires my goal of me reaching the status of a Full Stack Software Engineer . 👇 📷📸🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
 
-  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="50%" height= "350px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
+  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="80%" height= "350px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
