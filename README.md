@@ -39,9 +39,9 @@
     </div>
     
 
-   <h3 align="center"><ins> Web Developer Trainee Program</ins></h3>
-<img style="margin-left:2rem" src="/nu-yew.jpg" width="20%" height="20%">
-<p  align="center">
+   <h3><ins> Web Developer Trainee Program</ins></h3>
+<img style="margin-left:2rem;" src="/nu-yew.jpg" width="20%" height="20%">
+<p>
 Currently I am also a Web developer Trainee at Nu Yew Academy in the UK.<br>
     <strong>Skills</strong>: html, css, JavaScript, Python and AI 🔥🔥👨‍💻👨‍💻⌨️ </p></div>
   </p> 
