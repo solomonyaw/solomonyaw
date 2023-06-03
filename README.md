@@ -38,7 +38,14 @@
     <strong>Skills</strong>: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
     </div>
     
-<p> Link to my AmaliTech GitHub profile 👇👉: <a href ="https://github.com/solomon-yaw-amalitech">https://github.com/solomon-yaw-amalitech</a></p>
+    <h3 align="left">Web Developer Trainee Program</h3>
+    <p>
+<img src="/nu-yew.jpg" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
+Currently I am also a Web developer Trainee at Nu Yew Academy in the UK.<br>
+    <strong>Skills</strong>: html, css, JavaScript, Python and AI 🔥🔥👨‍💻👨‍💻⌨️ </p></div>
+  </p> 
+    
+
 
 <h3 align="left"><ins>Final Year Undergraduate Project</ins></h3>
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
