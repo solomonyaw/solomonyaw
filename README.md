@@ -36,16 +36,7 @@
   <p> 
     Currently I am a Full-Stack Software Engineer Trainee at <a href="https://amalitech.org/" target="_blank">AmaliTech Training Academy. </a> I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into <a href="https://amalitech.com/" target="_blank">AmaliTech Services</a> to work as a professional Full-Stack Engineer.<br>
     <strong>Skills</strong>: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
-    </div>
-    
-
-   <h3><ins> Web Developer Trainee Program</ins></h3>
-<img style="margin-left:2rem;" src="/nu-yew.jpg" width="20%" height="20%">
-<p>
-Currently I am also a Web developer Trainee at Nu Yew Academy in the UK.<br>
-    <strong>Skills</strong>: html, css, JavaScript, Python and AI 🔥🔥👨‍💻👨‍💻⌨️ </p></div>
-  </p> 
-    
+    </div>  
 
 
 <h3 align="left"><ins>Final Year Undergraduate Project</ins></h3>
