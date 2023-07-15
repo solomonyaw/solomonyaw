@@ -1,7 +1,7 @@
 
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo Dordor</h1>
-<h3 align="center">A passionate aspiring Full-Stack developer based in Tema/Ghana. I specialize in Web Development, JavaScript &  mobile app development with React Native. I love to network, join new communities and add value to communities globally✨</h3>
+<h3 align="center">A passionate Front-End developer based in Tema/Ghana. I specialize in Web Development, JavaScript &  mobile app development with React Native. I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
@@ -34,8 +34,9 @@
 <h3 align="left"><ins>Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
-    Currently I am a Full-Stack Software Engineer Trainee at <a href="https://amalitech.org/" target="_blank">AmaliTech Training Academy. </a> I have been enrolled in a Full-Stack software engineering apprenticeship program at AmaliTech to be sucessfully recruited into <a href="https://amalitech.com/" target="_blank">AmaliTech Services</a> to work as a professional Full-Stack Engineer.<br>
-    <strong>Skills</strong>: html, css, JavaScript, React.JS, Vue.JS,Node.JS, Python, Django🔥🔥👨‍💻👨‍💻⌨️ 🌍✨ </p>
+   Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
+<br>
+    <strong>Skills</strong>: HTML,CSS3, TailwindCSS, JavaScript, TypeScript, and React.JS🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
     </div>  
      <p> Link to my AmaliTech GitHub profile 👇👉: <a href ="https://github.com/solomon-yaw-amalitech">https://github.com/solomon-yaw-amalitech</a></p>
 
