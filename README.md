@@ -31,7 +31,7 @@
      
  <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="50%" height="320px" alt="coding"></p>
  
-<h3 align="left"><ins>Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
+<h3 align="left"><ins>Front-End Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
    Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
