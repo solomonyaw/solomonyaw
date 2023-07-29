@@ -36,7 +36,7 @@
   <p> 
    Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
 <br>
-    <strong>Skills</strong>: HTML,CSS3, TailwindCSS, JavaScript, TypeScript, and Angular🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
+    <strong>Skills</strong>: HTML,CSS3, TailwindCSS, Bootstrap , JavaScript, TypeScript, and Angular🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
     </div>  
      <p> Link to my AmaliTech GitHub profile 👇👉: <a href ="https://github.com/solomon-yaw-amalitech">https://github.com/solomon-yaw-amalitech</a></p>
 
