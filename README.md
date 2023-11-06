@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Javascript and Vue.Js**
 
-- 👨‍💻 My website: [http://solomonadeklo.me/](http://solomonadeklo.me/)
+- 👨‍💻 My website: [https://solomonyaw.github.io/](https://solomonyaw.github.io/)
 
 - 💬 Ask me about **MEARN**
 
