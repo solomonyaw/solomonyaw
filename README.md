@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I'm jovial**
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
-- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
+- 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
