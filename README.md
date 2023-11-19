@@ -24,6 +24,8 @@
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
+<p>Download My most favourite muscic below</p>
+<a href="https://www.up-4ever.net/p589fa1v8iob" target=_blank>yt1s.com - Lupe Fiasco  Dopamine Lit Intro.mp3 - 2.6 MB</a> 
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
