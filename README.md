@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf 
-- 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
+- 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
 
