@@ -1,6 +1,6 @@
 
-[![MasterHead]
-<div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="400px"><img src="coder.gif" width="50%" height="400px"></div>
+
+<div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo Dordor</h1>
 <h3 align="center">A passionate Front-End developer based in Tema/Ghana. I specialize in Web Development, specifically JavaScript programming . I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
