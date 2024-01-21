@@ -23,7 +23,7 @@
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited
-- 📝 Checkout my Medium profile where I have written a couple of articles that share viewpoint about how I percieve the world.
+- 📝 Checkout my Medium profile where I have written a couple of articles that share my viewpoint about how I percieve the world.
   Click here to read my articles 👉 https://sadeklo.medium.com/
    
 
