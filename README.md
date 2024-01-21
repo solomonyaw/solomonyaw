@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-direction: row"><img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="70%" height="250px" alt="coding"><img src="coder.gif" width="50%" height="300px"></div>
+<div style="display: flex; flex-direction: row"><img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="50%" height="250px" alt="coding"><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo Dordor</h1>
 <h3 align="center">A passionate Front-End developer based in Tema/Ghana. I specialize in Web Development, specifically JavaScript programming . I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
