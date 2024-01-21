@@ -23,8 +23,12 @@
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited
+- 📝 Checkout my Medium profile where I have written a couple of articles that share viewpoint about how I percieve the world.
+  Click here to read my articles 👉 https://sadeklo.medium.com/
+   
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
+
 
 <p>Download My most favourite muscic below</p><br>
 <a href="https://www.up-4ever.net/p589fa1v8iob" target=_blank>yt1s.com - Lupe Fiasco  Dopamine Lit Intro.mp3 - 2.6 MB</a> 
