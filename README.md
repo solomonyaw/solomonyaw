@@ -4,10 +4,11 @@
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo Dordor</h1>
 <h3 align="center">A passionate Front-End developer based in Tema/Ghana. I specialize in Web Development, specifically JavaScript programming . I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
+<p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/thekwameaheto?logo=twitter&style=for-the-badge" alt="solomonyaw" /></a> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
-<p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/thekwameaheto?logo=twitter&style=for-the-badge" alt="thekwameaheto" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonyaw" alt="solomonyaw" /></a> </p>
 
