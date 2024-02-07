@@ -45,8 +45,8 @@
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
    I completed my Graduate Trainee Program in Front-End Software Engineering at AmaliTech Training Academy. It was a software engineering apprenticeship program organized my Amaltech gGmbH.</p> Below is my awarded certificate.
-   ![alt text](amalitech.png "Description goes here")
 </p>
+ ![alt text](amalitech.png "Description goes here")
    
 
 
