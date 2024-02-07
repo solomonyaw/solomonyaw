@@ -44,11 +44,10 @@
 <h3 align="left"><ins>Front-End Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
   <p> 
-   Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
-<br>
-    <strong>Skills</strong>: HTML,CSS3, TailwindCSS, Bootstrap , JavaScript, TypeScript, and Angular🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
-    </div>  
-     <p> Link to my AmaliTech GitHub profile 👇👉: <a href ="https://github.com/solomon-yaw-amalitech">https://github.com/solomon-yaw-amalitech</a></p>
+   I completed my Graduate Trainee Program in Front-End Software Engineering at AmaliTech Training Academy. It was a software engineering apprenticeship program organized my Amaltech gGmbH.</p> Below is my awarded certificate.
+   ![alt text](amalitech.png "Description goes here")
+</p>
+   
 
 
 <h3 align="left"><ins>Final Year Undergraduate Project</ins></h3>
