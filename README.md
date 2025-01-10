@@ -14,19 +14,17 @@
 
 - 🔭 I’m currently working on **a social protection management information system**
 
-- 🌱 I’m currently learning **Javascript and Vue.Js**
+- 🌱 I’m currently learning **Python and Pandas**
 
-- 👨‍💻 My website: [https://solomonyaw.github.io/](https://solomonyaw.github.io/)
+- 👨‍💻 My website: [https://solomonyaw.github.io/](https://solomonadeklo.github.io/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Machine Learning**
 
 - ⚡ Fun fact **I'm jovial**
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf 
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited
-- 📝 Checkout my Medium profile where I have written a couple of articles that share my viewpoint about how I percieve the world.
-  Click here to read my articles 👉 https://sadeklo.medium.com/
    
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
@@ -41,11 +39,11 @@
      
  <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="50%" height="320px" alt="coding"></p>
  
-<h3 align="left"><ins>Front-End Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
+<h3 align="left"><ins>Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
 <div style="display: flex; flex-direction: row">
   <p width= "50%"> 
-   I completed my Graduate Trainee Program in Front-End Software Engineering at AmaliTech Training Academy. It was a software engineering apprenticeship program organized my Amaltech gGmbH.</p> Below is my awarded certificate.
+   I completed my Graduate Trainee Program in Software Engineering at AmaliTech Training Academy. It was a software engineering apprenticeship program organized my Amaltech gGmbH.</p> Below is my awarded certificate.
 </p>
 <img src ="AMALITECH.JPG" alt="amalitech certificate" width= "50%" height="50%">
 </div>
@@ -61,12 +59,6 @@
 <a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="80%" height= "350px"  src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
 
 
-
-Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
-
-<p>Below is an introductory video prologue that inspires my goal of me reaching the status of a Full Stack Software Engineer . 👇 📷📸🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
-
-  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="80%" height= "350px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
