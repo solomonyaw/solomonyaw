@@ -50,12 +50,6 @@
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
   Click here to read my full project documentation => <a href="https://www.researchgate.net/publication/368662756_A_SOCIAL_PROTECTION_MANAGEMENT_INFORMATION_SYSTEM_CASE_STUDY_INTO_SOCIAL_SECURITY_AND_NATIONAL_INSURANCE_TRUST"> Final Year Project </a><br>
   
-<p>I published a tutorial on youtube on a review of my Final Year Project . I had to do a presentation of all the core features of the system. I disabled the web screen reader feature in order to prevent conflicting sounds when I speak via the microphone.Click on the image below to watch video 👇👉 https://www.youtube.com/watch?v=wgXSkkYlIoA</p>
-
-<a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="80%" height= "350px"  src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
