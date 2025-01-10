@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-direction: row"><img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="50%" height="250px" alt="coding"><img src="coder.gif" width="50%" height="300px"></div>
+<div style="display: flex; flex-direction: row"><iframe src="https://giphy.com/embed/gutZ5Pm6Xl62eIf5RZ" width="480" height="252" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ">via GIPHY</a></p><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo Dordor</h1>
 <h3 align="center">I am an aspiring Data Science and Machine Learning Engineer. I also see myself as an anticipatory Design Science enthiusiast since I want to solve global problems with innovating artifacts(software). I want to solve global problems with Data Science and Machine Learning. I see myself in a few years being a member of the Buckminster Fuller Institute solving problems with Design Science specifically leveraging tools in Data Science and Machine Learning  💻📉📊 😀✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
