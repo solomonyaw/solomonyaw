@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-direction: row"><img src="ML.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
+<div style="display: flex; flex-direction: row"><img src="ML.gif" width="50%" height="300px"><img src="data.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo Dordor</h1>
 <h3 align="center">I am an aspiring Data Science and Machine Learning Engineer. I also see myself as an anticipatory Design Science enthiusiast since I want to solve global problems with innovating artifacts(software). I want to solve global problems with Data Science and Machine Learning. I see myself in a few years being a member of the Buckminster Fuller Institute solving problems with Design Science specifically leveraging tools in Data Science and Machine Learning  💻📉📊 😀✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
