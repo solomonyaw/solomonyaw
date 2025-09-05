@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-direction: row"><img src="ML.gif" width="50%" height="300px"><img src="data.gif" width="50%" height="300px"></div>
+<div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <h3 align="center">👋 Hi, I’m Solomon — a Full Stack Web Developer passionate about building scalable and user-friendly web applications.
 💻 Skilled in PHP and Laravel, with experience in front-end and back-end development.
@@ -73,5 +73,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
