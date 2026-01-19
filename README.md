@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Python and Pandas**
 
-- 👨‍💻 My website: [https://solomonadeklo.github.io/](https://solomonadeklo.github.io/)
+- 👨‍💻 My website: [https://solomonyaw.github.io/](https://solomonyaw.github.io/)
 
 - 💬 Ask me about **Machine Learning**
 
@@ -73,6 +73,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
