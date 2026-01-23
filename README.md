@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
-<img src="loghandbill.jpg" alt="Smartphone Billboard Concept" style="max-width:400px;height:400px;">
+<img src="loghandbill.jpg" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
 
 <h3 align="center">👋 Hi, I’m Solomon — The Co-Founder Of Handbill Incorporated.
 🚀  I am currently building our app called Handbill together with my team.</h3>
@@ -70,6 +70,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
