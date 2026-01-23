@@ -13,9 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonyaw" alt="solomonyaw" /></a> </p>
 
-- 🔭 I’m currently working on **A customer conversion system using Machine Learning**
-
-- 🌱 I’m currently learning **Python and Pandas**
+- 🔭 I’m currently working on **A mobile advertising app called Handbill**
 
 - 👨‍💻 My Project website: [http://www.handbillapp.com/](http://www.handbillapp.com/)
 
@@ -70,6 +68,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
