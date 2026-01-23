@@ -2,9 +2,8 @@
 
 <div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
-<h3 align="center">👋 Hi, I’m Solomon — an aspiring Full Stack Web Developer passionate about building scalable and user-friendly web applications.
-💻 Skilled in PHP and Laravel, with experience in front-end and back-end development.
-🚀 I enjoy turning ideas into functional solutions and constantly learning new technologies.</h3>
+<h3 align="center">👋 Hi, I’m Solomon — The Co-Founder Of Handbill Incorporated.
+🚀  I am currently building our app called Handbill together with my team.</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 <p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/solomonyaw2?logo=twitter&style=for-the-badge" alt="solomonyaw" /></a> </p>
 
@@ -18,16 +17,14 @@
 
 - 🌱 I’m currently learning **Python and Pandas**
 
-- 👨‍💻 My website: [https://solomonyaw.github.io/](https://solomonyaw.github.io/)
+- 👨‍💻 My Project website: [http://www.handbillapp.com/](http://www.handbillapp.com/)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Mobile Advertising**
 
 - ⚡ Fun fact **I'm jovial**
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
-- 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf 
-- 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited
-   
+- 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf    
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
 
@@ -73,6 +70,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
