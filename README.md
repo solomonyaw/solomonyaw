@@ -4,8 +4,7 @@
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <img src="loghandbill.jpg" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
 
-<h3 align="center">👋 Hi, I’m Solomon — The Co-Founder Of Handbill Incorporated.
-🚀  I am currently building our app called Handbill together with my team.</h3>
+<h3 align="center">👋 Solomon Yaw Adeklo is the Co-Founder and Chief Information Officer (CIO) of Handbill, where he leads the company’s technology vision, product architecture, and digital innovation. With a background in Information Technology, Solomon focuses on building scalable platforms that drive economic growth and empower local businesses in Ghana.</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 <p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/solomonyaw2?logo=twitter&style=for-the-badge" alt="solomonyaw" /></a> </p>
 
@@ -70,6 +69,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
