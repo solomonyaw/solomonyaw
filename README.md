@@ -37,7 +37,7 @@
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
 <div style="display: flex; flex-direction: row">
   <p width= "50%"> 
-   I completed my Graduate Trainee Program in Software Engineering at AmaliTech Training Academy. It was a software engineering apprenticeship program organized my Amaltech gGmbH.</p> Below is my awarded certificate.
+   I completed my Graduate Trainee Program in Software Engineering at AmaliTech Training Academy. It was a software engineering apprenticeship program organized by Amaltech gGmbH.</p> Below is my awarded certificate.
 </p>
 <img src ="AMALITECH.JPG" alt="amalitech certificate" width= "50%" height="50%">
 </div>
@@ -69,6 +69,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
