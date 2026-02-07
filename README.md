@@ -12,7 +12,7 @@ a gospel music platform dedicated to spreading the unadulterated Word of God thr
 </p>
 
 <p>
-Inspired and instructed by God, I use AI as a creative tool to produce spiritually uplifting music that glorifies Jesus Christ 
+Inspired and instructed by God, I use AI as a creative tool to produce spiritually uplifting music that glorifies God 
 and reaches people beyond traditional boundaries.
 </p>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
@@ -79,6 +79,7 @@ and reaches people beyond traditional boundaries.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
