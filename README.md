@@ -5,7 +5,7 @@
 <img src="loghandbill.jpg" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
 
 <h3 align="center">👋 Solomon Yaw Adeklo is the Co-Founder and Chief Information Officer (CIO) of Handbill, where he leads the company’s technology vision, product architecture, and digital innovation. With a background in Information Technology, Solomon focuses on building scalable platforms that drive economic growth and empower local businesses in Ghana.</h3>
-<h2>🎵 Yahweh Music</h2><img src="Logo.jpg" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
+<h2>🎵 Yahweh Music</h2><img src="Logo.png" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
 <p>
 I am the creator of <a href="https://www.yahwehmusic.online" target="_blank"><strong>Yahweh Music</strong></a> (https://www.yahwehmusic.online), 
 a gospel music platform dedicated to spreading the unadulterated Word of God through music powered by Artificial Intelligence.
@@ -79,6 +79,7 @@ and reaches people beyond traditional boundaries.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
+
 
 
 
