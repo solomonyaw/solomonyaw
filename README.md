@@ -49,7 +49,7 @@ and reaches people beyond traditional boundaries.
 [https://solomonyaw.github.io/My-testimony](https://solomonyaw.github.io/My-testimony)
 
 ## My NFT Project Repository (RFNFT)
-<p>My RNNFT Project repo is below 👇🏾</p>
+<p>My RFNFT Project repo is below 👇🏾</p>
 
 [https://github.com/solomonyaw/ronyfoster](https://github.com/solomonyaw/ronyfoster)
 
