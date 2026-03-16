@@ -48,6 +48,11 @@ and reaches people beyond traditional boundaries.
 
 [https://solomonyaw.github.io/My-testimony](https://solomonyaw.github.io/My-testimony)
 
+## My NFT Project Repository (RFNFT)
+<p>My RNNFT Project repo is below 👇🏾</p>
+
+[https://github.com/solomonyaw/ronyfoster](https://github.com/solomonyaw/ronyfoster)
+
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
