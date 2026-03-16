@@ -35,7 +35,7 @@ and reaches people beyond traditional boundaries.
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
 - 📄 Know about my experiences   https://solomonyaw.github.io/CV.pdf    
 
-🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
+🌐 Languages : English, Twi (Native Ghanaian Language), Ewe (Native Ghanaian Language).
 
 ## Books Written By Solomon Yaw Adeklo
 📘 **Book 1 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf) 
