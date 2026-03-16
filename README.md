@@ -44,7 +44,7 @@ and reaches people beyond traditional boundaries.
 📗 **Book 2:** [The Wealth of Laodicea – Rich Yet Spiritually Bankrupt](https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Wealth%20of%20Laodicea%20-%20Rich%20Yet%20Spiritually%20Bankrupt.pdf)
 
 ## Read My Personal Testimony
- [My Testimony: 👉](https://solomonyaw.github.io/My-testimony)
+ [My Testimony](https://solomonyaw.github.io/My-testimony)
 
 
 <div align=center> 
