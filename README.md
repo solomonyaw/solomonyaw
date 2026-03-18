@@ -38,10 +38,14 @@ and reaches people beyond traditional boundaries.
 🌐 Languages : English, Twi (Native Ghanaian Language), Ewe (Native Ghanaian Language).
 
 ## Books Written By Solomon Yaw Adeklo
-📘 **Book 1 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf) 
-**Repository** ==> [https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems)
+📘 **Book 1 (Excerpts):** [How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf) 
+**Repository** ==> [https://github.com/solomonyaw/How-to-Modernize-the-Football-and-Sports-Industry-in-Africa-Ghana-Using-Buckminster-Fuller-s-Ideas/blob/main/How%20to%20Modernize%20the%20Football%20and%20Sports%20Industry%20in%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20(Autosaved).pdf)](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems)
 
 📗 **Book 2:** [The Wealth of Laodicea – Rich Yet Spiritually Bankrupt](https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Wealth%20of%20Laodicea%20-%20Rich%20Yet%20Spiritually%20Bankrupt.pdf)
+
+📘 **Book 3 :** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/How-to-Modernize-the-Football-and-Sports-Industry-in-Africa-Ghana-Using-Buckminster-Fuller-s-Ideas/blob/main/How%20to%20Modernize%20the%20Football%20and%20Sports%20Industry%20in%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20(Autosaved).pdf))
+**Repository** ==> [https://github.com/solomonyaw/How-to-Modernize-the-Football-and-Sports-Industry-in-Africa-Ghana-Using-Buckminster-Fuller-s-Ideas](https://github.com/solomonyaw/How-to-Modernize-the-Football-and-Sports-Industry-in-Africa-Ghana-Using-Buckminster-Fuller-s-Ideas)
+
 
 ## Read My Personal Testimony
 <p>Read My testimony with the link below 👇🏾</p>
