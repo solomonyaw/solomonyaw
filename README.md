@@ -46,6 +46,9 @@ and reaches people beyond traditional boundaries.
 📘 **Book 3 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/How-to-Modernize-the-Football-and-Sports-Industry-in-Africa-Ghana-Using-Buckminster-Fuller-s-Ideas/blob/main/How%20to%20Modernize%20the%20Football%20and%20Sports%20Industry%20in%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20(Autosaved).pdf))
 **Repository** ==> [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems)
 
+📘 **Book 4 :** [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-/blob/main/Modernizing%20Ghana%E2%80%99s%20Film%20Industry-%20A%20Scientific%20and%20Technological%20Blueprint.pdf)
+**Repository** ==> [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-)
+
 
 ## Read My Personal Testimony
 <p>Read My testimony with the link below 👇🏾</p>
