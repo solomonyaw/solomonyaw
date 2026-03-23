@@ -18,6 +18,31 @@ and reaches people beyond traditional boundaries.
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 <p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/solomonyaw2?logo=twitter&style=for-the-badge" alt="solomonyaw" /></a> </p>
 
+# 🚀 My Portfolio Website
+
+I’ve redesigned my portfolio to go beyond the traditional “skills and projects” format.
+
+Instead of just showcasing what I know, this portfolio tells the **story behind my growth** — the experiences, challenges, and personal development journey that shaped me as a developer.
+
+👉 Live Site: https://solomonyaw.github.io/
+
+🌐 A custom domain will be coming soon.
+
+---
+
+## 💡 Concept
+
+Most portfolios focus only on:
+- Skills  
+- Tools  
+- Projects  
+
+This one focuses on:
+- **Journey**
+- **Growth mindset**
+- **Personal development stories**
+
+Because skills can change, but your story makes you unique.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
