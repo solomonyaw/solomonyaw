@@ -22,6 +22,9 @@ and reaches people beyond traditional boundaries.
 <img src="artist.png" width="400"  height="500px" alt="coding">
 I am the Founder of <b>Solomon Ghandi</b>, an AI-powered hip-hop artist creating conscious hip-hop music using AI — https://solomonyaw.github.io/SolomonGhandi/
 
+ Project repo: [https://github.com/solomonyaw/SolomonGhandi](https://github.com/solomonyaw/SolomonGhandi)
+
+https://github.com/solomonyaw/SolomonGhandi
 
 # 🚀 My Portfolio Website
 
