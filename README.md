@@ -18,6 +18,11 @@ and reaches people beyond traditional boundaries.
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 <p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/solomonyaw2?logo=twitter&style=for-the-badge" alt="solomonyaw" /></a> </p>
 
+# Solomon Ghandi
+<img src="artist.png" width="400" alt="coding">
+I am the Founder of **Solomon Ghandi**, an AI-powered hip-hop artist creating conscious hip-hop music using AI — https://solomonyaw.github.io/SolomonGhandi/
+
+
 # 🚀 My Portfolio Website
 
 I’ve redesigned my portfolio to go beyond the traditional “skills and projects” format.
