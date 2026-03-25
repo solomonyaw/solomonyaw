@@ -19,7 +19,7 @@ and reaches people beyond traditional boundaries.
 <p align="left"> <a href="https://twitter.com/solomonyaw2" target="blank"><img src="https://img.shields.io/twitter/follow/solomonyaw2?logo=twitter&style=for-the-badge" alt="solomonyaw" /></a> </p>
 
 # Solomon Ghandi
-<img src="artist.png" width="400"  height="200px" alt="coding">
+<img src="artist.png" width="400"  height="500px" alt="coding">
 I am the Founder of **Solomon Ghandi**, an AI-powered hip-hop artist creating conscious hip-hop music using AI — https://solomonyaw.github.io/SolomonGhandi/
 
 
