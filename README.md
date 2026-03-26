@@ -110,8 +110,12 @@ Because skills can change, but your story makes you unique.
 </div>
 
  [https://amalitech.com/ghana-training/](https://amalitech.com/ghana-training)
+ 
+ <h3 align="left">Other Certificates acquired while under trainiing in Amalitech</ins></h3>
+ 
+  [Click to see my certificates I acquired at Codecademy while under training at Amalitech](https://www.codecademy.com/users/solomonyaw/achievements)
 
-
+ 
 <h3 align="left"><ins>Final Year Undergraduate Project</ins></h3>
 <p>I studied a Bsc. in Information Technology at Valley View University. My Final Year Project involved a research work to develop a social protection management information system to register potential members online to make contributions 
   into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
