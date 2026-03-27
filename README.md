@@ -62,7 +62,12 @@ Because skills can change, but your story makes you unique.
   🌐 <strong>Live Website:</strong> 
   <a href="https://samueladeklo.created.app/" target="_blank">
     https://samueladeklo.created.app/
-  </a> 
+  </a>
+ 💻 <strong>GitHub Repo:</strong> 
+  <a href="https://github.com/solomonyaw/-SamuelYaoAdeklo" target="_blank">
+    https://github.com/solomonyaw/-SamuelYaoAdeklo
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
@@ -70,11 +75,7 @@ Because skills can change, but your story makes you unique.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonyaw" alt="solomonyaw" /></a> </p>
 
 
-  | 💻 <strong>GitHub Repo:</strong> 
-  <a href="https://github.com/solomonyaw/-SamuelYaoAdeklo" target="_blank">
-    https://github.com/solomonyaw/-SamuelYaoAdeklo
-  </a>
-</p>
+  | 
 
 - 🔭 I’m currently working on **A mobile advertising app called Handbill**
 
