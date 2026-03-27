@@ -57,6 +57,8 @@ Because skills can change, but your story makes you unique.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonyaw" alt="solomonyaw" /></a> </p>
 
+
+# My Dad's memorial & biography website (Samuel Yao Adeklo)
 <p>
   This project is a beautifully designed <strong>In Loving Memory &amp; Biography Website</strong> dedicated to Samuel Yao Adeklo, preserving his life, legacy, and impact through digital storytelling.
 </p>
