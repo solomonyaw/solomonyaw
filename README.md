@@ -57,6 +57,21 @@ Because skills can change, but your story makes you unique.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonyaw" alt="solomonyaw" /></a> </p>
 
+<p>
+  This project is a beautifully designed <strong>In Loving Memory &amp; Biography Website</strong> dedicated to Samuel Yao Adeklo, preserving his life, legacy, and impact through digital storytelling.
+</p>
+
+<p>
+  🌐 <strong>Live Website:</strong> 
+  <a href="https://samueladeklo.created.app/" target="_blank">
+    https://samueladeklo.created.app/
+  </a> 
+  | 💻 <strong>GitHub Repo:</strong> 
+  <a href="https://github.com/solomonyaw/-SamuelYaoAdeklo" target="_blank">
+    https://github.com/solomonyaw/-SamuelYaoAdeklo
+  </a>
+</p>
+
 - 🔭 I’m currently working on **A mobile advertising app called Handbill**
 
 - 👨‍💻 My Project website: [http://www.handbillapp.com/](http://www.handbillapp.com/)
