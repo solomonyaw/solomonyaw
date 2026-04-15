@@ -6,7 +6,7 @@
 
 <h3 align="center">👋 Solomon Yaw Adeklo is the Co-Founder and Chief Information Officer (CIO) of Handbill, where he leads the company’s technology vision, product architecture, and digital innovation. With a background in Information Technology, Solomon focuses on building scalable platforms that drive economic growth and empower local businesses in Ghana and Africa.</h3>
 
-# Synergetic Operating System (SOS)
+# Synergetics Operating System (SOS)
 <img src="logo (2).png" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
 I am also the founder of this project (Synergetics Operating System).
 
