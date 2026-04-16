@@ -33,7 +33,7 @@ I am the Founder of <b>Solomon Ghandi</b>, an AI-powered hip-hop artist creating
  Project repo: [https://github.com/solomonyaw/SolomonGhandi](https://github.com/solomonyaw/SolomonGhandi)
 
  # Panafricoin
-<img src="logo (2).png" width="400"  height="500px" alt="coding">
+<img src="logo (3).png" width="400"  height="400px" height="400px" alt="coding">
 I am the Co-Founder of <b>Panafricoin.</b>
 PanAfricoin (PAC) is a blockchain-powered middleware that connects cryptocurrencies with mobile money and banking systems across Africa. It enables seamless conversion, transfer, and settlement of value between digital assets and local currencies, acting as a unified financial bridge for real-world transactions.
 </br>
