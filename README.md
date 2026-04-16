@@ -8,7 +8,7 @@
 
 # Synergetics Operating System (SOS)
 <img src="logo (2).png" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
-I am also the founder of this project (Synergetics Operating System).
+I am also the founder of this project open source project (Synergetics Operating System).
 
 🌐 Website: https://solomonyaw.github.io/Synergetic-Operating-System/  
 📁 GitHub Repository: https://github.com/solomonyaw/Synergetics-Operating-System
