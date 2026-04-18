@@ -115,8 +115,6 @@ Because skills can change, but your story makes you unique.
 📗 **Book 2:** [The Wealth of Laodicea – Rich Yet Spiritually Bankrupt](https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Wealth%20of%20Laodicea%20-%20Rich%20Yet%20Spiritually%20Bankrupt.pdf)
 📗 **Book 3:** [The Original Blueprint - God’s Divine Plan for Marriage, Dominion, and Redemption](https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Original%20Blueprint%20-%20God%E2%80%99s%20Divine%20Plan%20for%20Marriage%2C%20Dominion%2C%20and%20Redemption.pdf
 )
-
-https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Original%20Blueprint%20-%20God%E2%80%99s%20Divine%20Plan%20for%20Marriage%2C%20Dominion%2C%20and%20Redemption.pdf
 📘 **Book 4 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf)
 **Repository** ==> [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems)
 
