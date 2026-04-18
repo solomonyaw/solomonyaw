@@ -8,7 +8,7 @@
 
 # Synergetics Operating System (SOS)
 <img src="logo (2).png" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
-I am also the founder of this project open source project (Synergetics Operating System).
+I am also the founder of this open source project (Synergetics Operating System).
 
 🌐 Website: https://solomonyaw.github.io/Synergetic-Operating-System/  
 📁 GitHub Repository: https://github.com/solomonyaw/Synergetics-Operating-System
@@ -113,11 +113,14 @@ Because skills can change, but your story makes you unique.
 **Repository** ==> [How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas](https://github.com/solomonyaw/How-to-Modernize-the-Football-and-Sports-Industry-in-Africa-Ghana-Using-Buckminster-Fuller-s-Ideas)
 
 📗 **Book 2:** [The Wealth of Laodicea – Rich Yet Spiritually Bankrupt](https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Wealth%20of%20Laodicea%20-%20Rich%20Yet%20Spiritually%20Bankrupt.pdf)
+📗 **Book 3:** [The Original Blueprint - God’s Divine Plan for Marriage, Dominion, and Redemption](https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Original%20Blueprint%20-%20God%E2%80%99s%20Divine%20Plan%20for%20Marriage%2C%20Dominion%2C%20and%20Redemption.pdf
+)
 
-📘 **Book 3 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf)
+https://github.com/solomonyaw/YahwehMusic/blob/main/The%20Original%20Blueprint%20-%20God%E2%80%99s%20Divine%20Plan%20for%20Marriage%2C%20Dominion%2C%20and%20Redemption.pdf
+📘 **Book 4 (Excerpts):** [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems/blob/main/A%20Better%20Africa%20Using%20Buckminster%20Fuller%E2%80%99s%20Ideas%20to%20Solve%20Today%E2%80%99s%20African%20Problems.pdf)
 **Repository** ==> [A Better Africa: Using Buckminster Fuller’s Ideas to Solve Today’s African Problems](https://github.com/solomonyaw/A-Better-Africa-Using-Buckminster-Fuller-s-Ideas-to-Solve-Today-s-African-Problems)
 
-📘 **Book 4 :** [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-/blob/main/Modernizing%20Ghana%E2%80%99s%20Film%20Industry-%20A%20Scientific%20and%20Technological%20Blueprint.pdf)
+📘 **Book 5 :** [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-/blob/main/Modernizing%20Ghana%E2%80%99s%20Film%20Industry-%20A%20Scientific%20and%20Technological%20Blueprint.pdf)
 **Repository** ==> [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-)
 
 
