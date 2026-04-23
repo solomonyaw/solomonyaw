@@ -27,7 +27,7 @@ and reaches people beyond traditional boundaries.
 
 # Solomon Ghandi
 <img src="artist.png" width="400"  height="500px" alt="coding">
-I am the Founder of <b>Solomon Ghandi</b>, an AI-powered hip-hop artist creating conscious hip-hop music using AI — https://solomonyaw.github.io/SolomonGhandi/
+I am the Founder of <b>Solomon Ghandi</b>, an AI-powered hip-hop artist creating conscious hip-hop music using AI — https://solomonghandi.online/
 </br>
 
  Project repo: [https://github.com/solomonyaw/SolomonGhandi](https://github.com/solomonyaw/SolomonGhandi)
@@ -50,11 +50,8 @@ I’ve redesigned my portfolio to go beyond the traditional “skills and projec
 
 Instead of just showcasing what I know, this portfolio tells the **story behind my growth** — the experiences, challenges, and personal development journey that shaped me as a developer.
 
-👉 Live Site: https://solomonyaw.github.io/
+🌐 Live Site: https://solomonadeklo.com/
 
-🌐 A custom domain will be coming soon.
-
----
 
 ## 💡 Concept
 
