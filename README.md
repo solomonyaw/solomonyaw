@@ -69,7 +69,7 @@ Instead of just showcasing what I know, this portfolio tells the **story behind 
   </a>
 </p>
 
-# John Tutu Adeklo Memorial Website
+# John Tutu Adeklo Memorial Website (My grandfather)
 
 A digital memorial website created in honor of my late grandfather **John Tutu Adeklo (Dordor)**, a respected hunter and the first Presbyter of the E.P Church in Hlefi.
 
