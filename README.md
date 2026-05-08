@@ -53,21 +53,6 @@ Instead of just showcasing what I know, this portfolio tells the **story behind 
 🌐 Live Site: https://solomonadeklo.com/
 
 
-## 💡 Concept
-
-Most portfolios focus only on:
-- Skills  
-- Tools  
-- Projects  
-
-This one focuses on:
-- **Journey**
-- **Growth mindset**
-- **Personal development stories**
-
-Because skills can change, but your story makes you unique.
-
-
 # My Dad's memorial & biography website (Samuel Yao Adeklo)
 <p>
   This project is a beautifully designed <strong>In Loving Memory &amp; Biography Website</strong> dedicated to Samuel Yao Adeklo, preserving his life, legacy, and impact through digital storytelling.
@@ -83,6 +68,18 @@ Because skills can change, but your story makes you unique.
     https://github.com/solomonyaw/-SamuelYaoAdeklo
   </a>
 </p>
+
+# John Tutu Adeklo Memorial Website
+
+A digital memorial website created in honor of my late grandfather **John Tutu Adeklo (Dordor)**, a respected hunter and the first Presbyter of the E.P Church in Hlefi.
+
+Website: http://www.solomonadeklo.com/JohnAdeklo/
+
+# Hlefi Village Website (My Hometown and village)
+
+Hlefi is a peaceful farming community located in the Ho West District of Ghana’s Volta Region, surrounded by the beautiful Akwapim–Togo mountain ranges and known for its rich Ewe culture, agriculture, and communal spirit.
+
+🌍 Website: http://www.solomonadeklo.com/Hlefi/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
