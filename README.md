@@ -118,12 +118,6 @@ Hlefi is a peaceful farming community located in the Ho West District of Ghana�
 📘 **Book 5 :** [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-/blob/main/Modernizing%20Ghana%E2%80%99s%20Film%20Industry-%20A%20Scientific%20and%20Technological%20Blueprint.pdf)
 **Repository** ==> [Modernizing Ghana’s Film Industry- A Scientific and Technological Blueprint](https://github.com/solomonyaw/Modernizing-Ghana-s-Film-Industry-A-Scientific-and-Technological-Blueprint-)
 
-
-## Read My Personal Testimony
-<p>Read My testimony with the link below 👇🏾</p>
-
-[https://solomonyaw.github.io/My-testimony](https://solomonyaw.github.io/My-testimony)
-
 ## My NFT Project Repository (RFNFT)
 <p>The link to my RFNFT Project repo is below 👇🏾</p>
 
