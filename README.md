@@ -2,10 +2,7 @@
 
 <div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
-<img src="loghandbill.jpg" alt="Smartphone Billboard Concept" style="max-width:80px;height:80px;">
 
-
-  | 
 
 - 🔭 I’m currently working on **A mobile advertising app called Handbill**
 
