@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-direction: row"><img src="mario.gif" width="50%" height="300px"><img src="coder.gif" width="50%" height="300px"></div>
+<div style="display: flex; flex-direction: column"><img src="https://lnkd.in/p/deeMN8yY " width="100%" height="300px"></div>
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 
 
