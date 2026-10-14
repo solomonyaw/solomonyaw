@@ -24,7 +24,7 @@
 
 - 👨‍💻 My Project website: [http://www.handbillapp.com/](http://www.handbillapp.com/)
 
-- 💬 Ask me about **Mobile Advertising**
+- 💬 Ask me about **Network Programming and Automation**
 
 - ⚡ Fun fact **I'm jovial**
 
