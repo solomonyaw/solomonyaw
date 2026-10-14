@@ -4,6 +4,22 @@
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 
 
+🌐 **Aspiring Network & Telecommunications Engineer**  
+🎓 MSc. Networking and Telecommunication Systems student at the **University of Ghana 🇬🇭**
+
+💻 I'm passionate about computer networking, Python programming, network automation, and cybersecurity. 🔐
+
+🐍 I'm building hands-on network programming and simulation projects and sharing them on GitHub to strengthen my technical skills, build my professional portfolio, and advance my career in Network Engineering. 🚀
+
+### 🛠️ Interests & Technologies
+🐍 Python | 🌐 Networking | ⚙️ Network Automation | 🧪 Network Simulation | 🔐 Cybersecurity | 📡 Telecommunications
+
+🎯 **Learning by building. Automating networks. Connecting the future!** 🌍✨
+
+🔗 **Portfolio:** [solomonadeklo.com](https://www.solomonadeklo.com/)
+
+
+
 - 🔭 I’m currently working on **A mobile advertising app called Handbill**
 
 - 👨‍💻 My Project website: [http://www.handbillapp.com/](http://www.handbillapp.com/)
@@ -17,8 +33,6 @@
 
 🌐 Languages : English, Twi (Native Ghanaian Language), Ewe (Native Ghanaian Language).
 
-
- <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="50%" height="320px" alt="coding"></p>
  
 <       
 </p>
