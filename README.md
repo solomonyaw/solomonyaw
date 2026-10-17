@@ -18,6 +18,13 @@
 
 🔗 **Portfolio:** [solomonadeklo.com](https://www.solomonadeklo.com/)
 
+[![GitHub Rankings](https://img.shields.io/badge/Rankings-Top%20Contributors%20Ghana-blue?style=for-the-badge&logo=github)](https://committers.top/ghana.html)
+
+ You can view the live rankings and community activity tracking on the [Ghana Committers Top List](https://committers.top/ghana.html).
+
+### 📊 Stats & Rankings
+* **GitHub Username:** `solomonyaw`[span_1](start_span)[span_1](end_span)
+* **Regional Activity:** Ranked among active contributors on the [Ghana GitHub Committers Leaderboard](https://committers.top/ghana.html)[span_2](start_span)[span_2](end_span).
 
 
 - 🔭 I’m currently working on **A mobile advertising app called Handbill**
